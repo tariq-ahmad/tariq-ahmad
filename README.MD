@@ -1,14 +1,12 @@
-<h1>😎 Hi, I'm Tariq! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<h1> Hi, I'm Tariq! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p>A GenZ coding Enthusiast<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
 
-[![Linkedin: Tariq-Ahmad](https://img.shields.io/badge/-tariq-ahmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tariq-ahmad/)](https://www.linkedin.com/in/tariq-ahmad/)
+
+[![Linkedin: Tariq-Ahmad](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariq-ahmad/)
 <img id="preview" src="https://komarev.com/ghpvc/?username=tariq-ahmad&color=brightgreen">
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+###  A little more about me...
 
 ```javascript
 
@@ -40,7 +38,8 @@ const Tariq = {
 
 
 
-🪛 Toolkit
+### 🪛 Toolkit
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
