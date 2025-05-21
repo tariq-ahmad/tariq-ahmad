@@ -1,7 +1,6 @@
 <h1> Hi, I'm Tariq!
 </h1>
 
-[![Linkedin: Tariq-Ahmad](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariq-ahmad/)
 
 ###  A little more about me...
 
