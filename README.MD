@@ -5,7 +5,7 @@
 
 [![Linkedin: Tariq-Ahmad](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariq-ahmad/)
 <img id="preview" src="https://komarev.com/ghpvc/?username=tariq-ahmad&color=brightgreen">
-	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 ###  A little more about me...
 
 ```javascript
