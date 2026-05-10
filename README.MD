@@ -1,41 +1,27 @@
-<h1> Hi, I'm Tariq!
-</h1>
+# Hi, I'm Tariq Ahmad 👋
+### Lead Software Engineer | Cloud Architect | AI & Engineering
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://tariq-ahmad.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariq-ahmad)
 
-###  A little more about me...
+I am a Lead Software Engineer and Cloud Architect with nearly 7 years of experience building scalable, event-driven enterprise systems. I specialize in bridging complex business requirements with robust, cloud-native microservice architectures to drive measurable business velocity and scale.
 
-```javascript
+```json
+{
+  "current_role": "Lead Software Engineer",
+  "specialties": ["Cloud Architecture", "Distributed Systems", "Agentic AI"],
+  "mission": "Establishing org-wide technical standards and scaling high-availability enterprise platforms.",
+  "status": "Open to strategic engineering conversations"
+}
 
-const Tariq = {
-  pronouns: "he" | "him",
-  code: ["Java", "Python"],
-  tools: ["Spring Boot","JUnit","Maven","Gradle","PyCharm","Pandas","NumPy",],
-  pipeLine: ["Spring Boot", "Django", "PySpark"],
-  hobbies: ["Gardening", "Coding", "All Things Tech"]
-};
+🏗️ Engineering & Leadership Impact
+Enterprise Architecture: Designed and delivered 70+ microservice ecosystems using Event-Driven Architecture (Kafka/PubSub) with 99.95% success rates via DLQs and retry patterns.
+Cloud-Native Infrastructure: Engineered highly available, containerized runtime environments across GCP and AWS utilizing Kubernetes and Docker.
+Innovation & AI: Pioneering the exploration of Agentic AI Systems, developing high-impact POCs, and authoring strategic architectural blueprints for enterprise adoption.
+Engineering Excellence: Engineered reusable "Microservice Starter Kits" that reduced boilerplate by 30%, while mentoring junior engineers in System Design, TDD, and backend reliability.
 
-```
-
-### 🎓 Experiences & Collaborations
-
-- Designed and developed scalable microservices using Kotlin, Java (Spring Boot), and Python.
-- Specialized in cloud-native architecture: GCP (Cloud Run, Pub/Sub), AWS, and Kubernetes.
-- Implemented RESTful APIs, integrated Kafka for event-driven architecture, and built a reusable core library for microservices (WebClient, error handling, logging, PGP, SFTP).
-- Led containerization and deployment with Docker and Kubernetes; managed CI/CD pipelines using Harness, Jenkins, and Argo CD.
-- Mentored junior team members, conducted code reviews, and contributed to successful RFPs.
-
-### 🏆 Achievements
-
-- Multiple Deloitte awards for outstanding performance and impactful solutions.
-- Finalist in Deloitte IoT Hackathon and TechnoUtsav, leading teams in cloud and ML-based projects.
-
-
-
-
-### 🪛 Toolkit
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"><img src="https://img.shields.io/badge/ArgoCD-EB5A46?style=for-the-badge&logo=argo&logoColor=white"><img src="https://img.shields.io/badge/Harness-1A82E2?style=for-the-badge&logo=harness&logoColor=white"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white">
-
-<em><b>I enjoy connecting with people. If you’d like to reach out and say hello, I would be delighted to connect further!</b> :)</em>
-
----
+🧰 The Tech Stack
+Backend & Architecture
+Cloud & Containers
+Data & Event Streaming
+DevOps & Observability
